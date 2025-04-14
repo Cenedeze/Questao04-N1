@@ -4,7 +4,7 @@ Projeto desenvolvido para a disciplina de **Programação Mobile** do curso de *
 
 ## 👤 Informações do Aluno
 
-- **Nome:**João Vitor Cenedeze 
+- **Nome:** João Vitor Cenedeze 
 - **RA:** 24025874
 - **Professor:** Vinicius Heltai  
 - **Semestre:** 3º  
